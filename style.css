@@ -24,7 +24,7 @@ body {
     background-repeat: no-repeat;
     height: 80vh;
     border-radius: 50px;
-    color: aliceblue;
+    color: rgb(0, 255, 170);
     cursor: pointer;
     flex: 0.5;
     margin: 10px;
